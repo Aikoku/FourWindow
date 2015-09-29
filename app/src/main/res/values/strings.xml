@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_two_win">twoWin</string>
+    <string name="title_activity_tre_win">treWin</string>
+    <string name="title_activity_for_win">forWin</string>
 </resources>

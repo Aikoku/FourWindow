@@ -16,6 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".twoWin"
+            android:label="@string/title_activity_two_win" >
+        </activity>
+        <activity
+            android:name=".treWin"
+            android:label="@string/title_activity_tre_win" >
+        </activity>
+        <activity
+            android:name=".forWin"
+            android:label="@string/title_activity_for_win" >
+        </activity>
     </application>
 
 </manifest>
